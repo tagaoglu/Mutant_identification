@@ -1,6 +1,6 @@
 # Pipeline to identify mutations from NGS data
 
-Below you can find detailed descriptions of the scripts in this repository:
+Below you can find descriptions of the scripts in this repository:
 
 * **all required modules**              
 module.sh
