@@ -1,4 +1,4 @@
-# Pipeline to identify mutations from NGS data
+# Pipeline to identify potential causative mutations for a certain phenotype
 
 Below you can find descriptions of the scripts in this repository:
 
