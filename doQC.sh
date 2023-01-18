@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #SBATCH --mail-type=fail
 #SBATCH --job-name="QC"
 #SBATCH --nodes=1
