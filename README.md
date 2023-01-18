@@ -7,7 +7,7 @@ Quality control :
 doQC.slurm
 
 Sequence genome, remap (and identify variants):
-script-bioinfo.slurm
+remap_script.slurm
 
 Finalize SNPcalling :
 ...
