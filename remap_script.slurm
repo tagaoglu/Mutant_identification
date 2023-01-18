@@ -68,4 +68,4 @@ picard-tools SortSam INPUT=${READS}_RG.sam OUTPUT=${READS}_RG_sorted.bam SORT_OR
 #mark duplicates with Picard tools
 picard-tools MarkDuplicates INPUT=${READS}_RG_sorted.bam OUTPUT=${READS}_RG_sorted_dedup.bam METRICS_FILE=${READS}_metrics.txt TMP_DIR='pwd'/tmp
 
-sbatch /data/users/lfalquet/BC7107_20/scripts/scriptB8-bioinfo.slurm ATH ${READS}
+sbatch /data/users/tagaoglu/BC7107_20/scripts/BQSR-script.slurm ATH ${READS}
