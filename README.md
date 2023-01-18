@@ -10,8 +10,8 @@ Sequence genome, remap (and identify variants):
 remap_script.slurm
 BQSR-script.slurm
 
-Finalize SNPcalling :
-...
+Finalize SNV calling :
+Finalize_SNV_calling.slurm
 
 Identify variants (and Annotation):
 ...
