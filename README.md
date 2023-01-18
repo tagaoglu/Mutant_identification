@@ -11,7 +11,7 @@ remap_script.sh ,
 BQSR-script.sh
 
 Finalize SNV calling :
-Finalize_SNV_calling.sh
+finalize_SNV_calling.sh
 
 Identify variants (and Annotation): 
 annotvcfATH.sh
