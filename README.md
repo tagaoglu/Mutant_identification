@@ -4,14 +4,14 @@ Modules:
 module.sh
 
 Quality control :
-doQC.slurm
+doQC.sh
 
 Sequence genome, remap (and identify variants):
-remap_script.slurm
-BQSR-script.slurm
+remap_script.sh ,
+BQSR-script.sh
 
 Finalize SNV calling :
-Finalize_SNV_calling.slurm
+Finalize_SNV_calling.sh
 
 Identify variants (and Annotation): 
 annotvcfATH.sh
