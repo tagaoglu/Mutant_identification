@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #SBATCH --mail-type=end,fail
 #SBATCH --job-name="vcfannot"
 #SBATCH --nodes=1
