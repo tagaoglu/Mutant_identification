@@ -19,7 +19,7 @@ finalize_SNV_calling.sh
 annotvcfATH.sh
 
 
-# Summary of the goals of this project:
+## Summary of the goals of this project:
 - Remapping of reads of 6 mutants and one parental strain on a reference genome (TAIR10 Arabidopsis thaliana)
 - QC of the reads with FastQC and MultiQC
 - Trimming and cleaning the reads if necessary
