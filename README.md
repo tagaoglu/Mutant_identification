@@ -13,5 +13,5 @@ BQSR-script.slurm
 Finalize SNV calling :
 Finalize_SNV_calling.slurm
 
-Identify variants (and Annotation):
-...
+Identify variants (and Annotation): 
+annotvcfATH.sh
